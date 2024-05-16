@@ -1,0 +1,261 @@
+                  title geo_accession                status submission_date last_update_date type channel_count source_name_ch1 organism_ch1 characteristics_ch1
+GSM1182186  PBMC_GARP_1    GSM1182186 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182187  PBMC_GARP_2    GSM1182187 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182188  PBMC_GARP_3    GSM1182188 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182189  PBMC_GARP_4    GSM1182189 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182190  PBMC_GARP_5    GSM1182190 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182191  PBMC_GARP_6    GSM1182191 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182192  PBMC_GARP_7    GSM1182192 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182193  PBMC_GARP_8    GSM1182193 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182194  PBMC_GARP_9    GSM1182194 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182195 PBMC_GARP_10    GSM1182195 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182196 PBMC_GARP_11    GSM1182196 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182197 PBMC_GARP_12    GSM1182197 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182198 PBMC_GARP_13    GSM1182198 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182199 PBMC_GARP_14    GSM1182199 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182200 PBMC_GARP_15    GSM1182200 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182201 PBMC_GARP_16    GSM1182201 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182202 PBMC_GARP_17    GSM1182202 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182203 PBMC_GARP_18    GSM1182203 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182204 PBMC_GARP_19    GSM1182204 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182205 PBMC_GARP_20    GSM1182205 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182206 PBMC_GARP_21    GSM1182206 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182207 PBMC_GARP_22    GSM1182207 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182208 PBMC_GARP_23    GSM1182208 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182209 PBMC_GARP_24    GSM1182209 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+GSM1182210 PBMC_GARP_25    GSM1182210 Public on Jul 18 2013     Jul 09 2013      Jul 18 2013  RNA             1         PBMC_OA Homo sapiens      gender: Female
+           characteristics_ch1.1 characteristics_ch1.2 characteristics_ch1.3 characteristics_ch1.4 molecule_ch1
+GSM1182186         age (yrs): 48         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182187         age (yrs): 60         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182188         age (yrs): 63         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182189         age (yrs): 60         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182190         age (yrs): 70         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182191         age (yrs): 50         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182192         age (yrs): 47         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182193         age (yrs): 63         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182194         age (yrs): 75         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182195         age (yrs): 78         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182196         age (yrs): 53         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182197         age (yrs): 57         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182198         age (yrs): 73         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182199         age (yrs): 77         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182200         age (yrs): 65         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182201         age (yrs): 64         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182202         age (yrs): 57         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182203         age (yrs): 55         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182204         age (yrs): 54         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182205         age (yrs): 64         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182206         age (yrs): 65         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182207         age (yrs): 58         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182208         age (yrs): 59         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182209         age (yrs): 58         tissue: blood          tissue: PBMC   disease state: case    total RNA
+GSM1182210         age (yrs): 56         tissue: blood          tissue: PBMC   disease state: case    total RNA
+                                                                                                                                                                                                                         extract_protocol_ch1
+GSM1182186 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182187 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182188 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182189 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182190 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182191 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182192 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182193 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182194 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182195 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182196 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182197 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182198 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182199 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182200 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182201 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182202 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182203 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182204 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182205 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182206 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182207 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182208 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182209 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+GSM1182210 RNA was extracted with TRIzol reagent, followed by clean-up and DNase I treatment with the QIAGEN RNeasy mini kit following the manufacturer's recommendations. Quality control was performed with the 2100 Bioanalyser (Agilent).
+           label_ch1
+GSM1182186    biotin
+GSM1182187    biotin
+GSM1182188    biotin
+GSM1182189    biotin
+GSM1182190    biotin
+GSM1182191    biotin
+GSM1182192    biotin
+GSM1182193    biotin
+GSM1182194    biotin
+GSM1182195    biotin
+GSM1182196    biotin
+GSM1182197    biotin
+GSM1182198    biotin
+GSM1182199    biotin
+GSM1182200    biotin
+GSM1182201    biotin
+GSM1182202    biotin
+GSM1182203    biotin
+GSM1182204    biotin
+GSM1182205    biotin
+GSM1182206    biotin
+GSM1182207    biotin
+GSM1182208    biotin
+GSM1182209    biotin
+GSM1182210    biotin
+                                                                                                                                                                                           label_protocol_ch1
+GSM1182186 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182187 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182188 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182189 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182190 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182191 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182192 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182193 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182194 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182195 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182196 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182197 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182198 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182199 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182200 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182201 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182202 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182203 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182204 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182205 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182206 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182207 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182208 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182209 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+GSM1182210 To perform cDNA synthesis, amplification, biotin labeling, and hybridization onto the microarrays the Ambion TotalPrep-96 RNA amplification kit was used according to the manufacturer's protocol.
+           taxid_ch1                                                                            hyb_protocol                                           scan_protocol  description
+GSM1182186      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071028_A
+GSM1182187      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071055_A
+GSM1182188      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071055_C
+GSM1182189      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071026_A
+GSM1182190      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071026_C
+GSM1182191      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071028_C
+GSM1182192      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071026_E
+GSM1182193      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071026_G
+GSM1182194      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668053_A
+GSM1182195      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668053_C
+GSM1182196      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668036_J
+GSM1182197      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668036_L
+GSM1182198      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668054_A
+GSM1182199      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668054_C
+GSM1182200      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668054_E
+GSM1182201      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668054_G
+GSM1182202      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071055_I
+GSM1182203      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071055_D
+GSM1182204      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071055_F
+GSM1182205      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668018_A
+GSM1182206      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668018_C
+GSM1182207      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071028_I
+GSM1182208      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4778071028_K
+GSM1182209      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668052_A
+GSM1182210      9606 Standard Illumina hybridization protocol with Ambion TotalPrep-96 RNA amplification kit Slides were scanned with the Illumina Beadscanner 500GX 4802668052_C
+           description.1
+GSM1182186  PBMC_OA_mRNA
+GSM1182187  PBMC_OA_mRNA
+GSM1182188  PBMC_OA_mRNA
+GSM1182189  PBMC_OA_mRNA
+GSM1182190  PBMC_OA_mRNA
+GSM1182191  PBMC_OA_mRNA
+GSM1182192  PBMC_OA_mRNA
+GSM1182193  PBMC_OA_mRNA
+GSM1182194  PBMC_OA_mRNA
+GSM1182195  PBMC_OA_mRNA
+GSM1182196  PBMC_OA_mRNA
+GSM1182197  PBMC_OA_mRNA
+GSM1182198  PBMC_OA_mRNA
+GSM1182199  PBMC_OA_mRNA
+GSM1182200  PBMC_OA_mRNA
+GSM1182201  PBMC_OA_mRNA
+GSM1182202  PBMC_OA_mRNA
+GSM1182203  PBMC_OA_mRNA
+GSM1182204  PBMC_OA_mRNA
+GSM1182205  PBMC_OA_mRNA
+GSM1182206  PBMC_OA_mRNA
+GSM1182207  PBMC_OA_mRNA
+GSM1182208  PBMC_OA_mRNA
+GSM1182209  PBMC_OA_mRNA
+GSM1182210  PBMC_OA_mRNA
+                                                                                                                                                                                                                                                                                                                                                                                                            data_processing
+GSM1182186 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182187 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182188 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182189 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182190 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182191 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182192 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182193 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182194 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182195 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182196 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182197 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182198 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182199 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182200 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182201 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182202 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182203 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182204 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182205 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182206 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182207 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182208 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182209 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+GSM1182210 Raw data were prepared with GenomeStudio Software (Gene Expression module v1.0), without normalization or background substraction and with imputation of missing data. Subsequently, quality control was performed in R statistical programming language using the lumi-package, and data were prepared for analysis by applying robust spline normalization (RSN) and variance-stabilizing transformation (vst)
+           platform_id        contact_name       contact_email     contact_department                contact_institute contact_address contact_city contact_zip/postal_code
+GSM1182186     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182187     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182188     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182189     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182190     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182191     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182192     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182193     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182194     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182195     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182196     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182197     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182198     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182199     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182200     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182201     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182202     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182203     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182204     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182205     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182206     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182207     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182208     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182209     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+GSM1182210     GPL6947 Yolande,F. M.,Ramos y.f.m.ramos@lumc.nl Molecular Epidemiology Leiden University Medical Center Einthovenweg 20       Leiden                 2333 ZC
+           contact_country supplementary_file data_row_count age (yrs):ch1 disease state:ch1 gender:ch1 tissue:ch1
+GSM1182186     Netherlands               NONE          48802            48              case     Female blood;PBMC
+GSM1182187     Netherlands               NONE          48802            60              case     Female blood;PBMC
+GSM1182188     Netherlands               NONE          48802            63              case     Female blood;PBMC
+GSM1182189     Netherlands               NONE          48802            60              case     Female blood;PBMC
+GSM1182190     Netherlands               NONE          48802            70              case     Female blood;PBMC
+GSM1182191     Netherlands               NONE          48802            50              case     Female blood;PBMC
+GSM1182192     Netherlands               NONE          48802            47              case     Female blood;PBMC
+GSM1182193     Netherlands               NONE          48802            63              case     Female blood;PBMC
+GSM1182194     Netherlands               NONE          48802            75              case     Female blood;PBMC
+GSM1182195     Netherlands               NONE          48802            78              case     Female blood;PBMC
+GSM1182196     Netherlands               NONE          48802            53              case     Female blood;PBMC
+GSM1182197     Netherlands               NONE          48802            57              case     Female blood;PBMC
+GSM1182198     Netherlands               NONE          48802            73              case     Female blood;PBMC
+GSM1182199     Netherlands               NONE          48802            77              case     Female blood;PBMC
+GSM1182200     Netherlands               NONE          48802            65              case     Female blood;PBMC
+GSM1182201     Netherlands               NONE          48802            64              case     Female blood;PBMC
+GSM1182202     Netherlands               NONE          48802            57              case     Female blood;PBMC
+GSM1182203     Netherlands               NONE          48802            55              case     Female blood;PBMC
+GSM1182204     Netherlands               NONE          48802            54              case     Female blood;PBMC
+GSM1182205     Netherlands               NONE          48802            64              case     Female blood;PBMC
+GSM1182206     Netherlands               NONE          48802            65              case     Female blood;PBMC
+GSM1182207     Netherlands               NONE          48802            58              case     Female blood;PBMC
+GSM1182208     Netherlands               NONE          48802            59              case     Female blood;PBMC
+GSM1182209     Netherlands               NONE          48802            58              case     Female blood;PBMC
+GSM1182210     Netherlands               NONE          48802            56              case     Female blood;PBMC
+ [ reached 'max' / getOption("max.print") -- omitted 114 rows ]
